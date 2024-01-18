@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjuol" alt="cjuol" /></a> </p>
 
-- 🔭 I’m currently working on **Gesthispania**
+- 🔭 I’m currently working on **Experis**
 
 - 🌱 I’m currently learning **AWS and Angular**
 
